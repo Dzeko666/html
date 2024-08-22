@@ -10,24 +10,38 @@ nav{
 }
 #navbar{
     margin: 20px;
-    padding: 10px 0 20px 50px;
-    background-color: aqua;
-    border: dashed 3px blue;
+    padding: 20px 0 20px 900px;
+    background-color: rgb(0, 255, 42);
+    border: dashed 3px rgb(251, 255, 0);
 }
 /*app no html*/
 #app{
     padding: 15px;
-    border:solid 3px yellow;
-    background-color: chocolate;
-    height: 300px;
+    border:solid 3px rgb(0, 247, 255);
+    background-color: rgb(255, 133, 0);
+    height: 200px;
 }
 /* class no html*/
 .secao{
     margin: 10px;
-    border: dashed 3px red;
-    width: 250px;
+    border: dashed 3px rgb(25, 2, 88);
+    width: 60px;
     height: 50px;
-    background-color: white;
+    background-color: rgb(252, 0, 189);
 }
 /*propria tag*/
 /*aqui será aside*/
+
+h1{
+    background-color: rgb(136, 255, 0);
+    color: rgb(255, 115, 0);
+}
+
+h2{
+    background-color: rgb(136, 255, 0);
+    color: rgb(0, 0, 0);
+}
+
+body{
+    background-image: url(https://static.gazetaesportiva.com/uploads/imagem/2016/10/21/CvUmKMwWEAAbc3E-1.jpg);
+}
